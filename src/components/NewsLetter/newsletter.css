@@ -1,0 +1,33 @@
+.newsletter{
+    background: #17bf9e;
+    padding: 70px;
+    border-radius: 15px;
+
+}
+
+.newsletter h2{
+    color: #fff;
+}
+
+/* .subscribe input{
+    border: none;
+    outline: none;
+}
+
+.subscribe{
+    padding: 7px 10px;
+    background: #fff ;
+    width: 60%;
+    margin: auto;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+} */
+
+.subscribe{
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+
+}
